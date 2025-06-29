@@ -1,4 +1,4 @@
-# 🛒 Selenium E-commerce Automation (Java)
+#  Selenium E-commerce Automation (Java)
 
 This project is a simple Selenium automation script in Java that:
 
@@ -9,7 +9,7 @@ This project is a simple Selenium automation script in Java that:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 AutomationAssignment/
 ├── pom.xml
@@ -24,9 +24,9 @@ AutomationAssignment/
 
 
 
-## 🛠️ Prerequisites
+##  requirements
 
-### ✅ Software Required
+###  Software Required
 
 | Tool             | Description                          |
 |------------------|--------------------------------------|
@@ -37,7 +37,7 @@ AutomationAssignment/
 
 ---
 
-## 🌐 Download ChromeDriver
+##  Download ChromeDriver
 
 1. Check your Chrome version by visiting:  
    `chrome://settings/help`
@@ -54,9 +54,9 @@ Edit
 
 ---
 
-## 📦 Setup Steps in IntelliJ IDEA
+##  Setup Steps in IntelliJ IDEA
 
-### 🔧 Step 1: Open IntelliJ & Create New Project
+###  Step 1: Open IntelliJ & Create New Project
 
 1. Launch IntelliJ IDEA
 2. Select **New Project**
@@ -64,7 +64,7 @@ Edit
 4. Name it `AutomationAssignment`
 5. Click **Finish**
 
-### 🧾 Step 2: Add Dependencies
+###  Step 2: Add Dependencies
 
 Edit your `pom.xml` and add:
 ```xml
