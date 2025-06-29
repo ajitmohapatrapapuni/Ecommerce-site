@@ -72,12 +72,7 @@ Edit your `pom.xml` and add:
 
 .
 
-###📝 Step 3: Create Java Class
-Go to: src/main/java
 
-Right-click java → New → Package → Name: org.example
-
-Right-click the package → New → Java Class → Name: ECommerceTest
 
 
 
