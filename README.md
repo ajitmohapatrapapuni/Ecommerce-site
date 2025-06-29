@@ -7,7 +7,7 @@ This project is a simple Selenium automation script in Java that:
 3. Adds it to cart
 4. Logs out
 
-
+---
 
 ## 📁 Project Structure
 
@@ -20,7 +20,11 @@ AutomationAssignment/
 └── example/
 └── ECommerceTest.java
 
+yaml
+Copy
+Edit
 
+---
 
 ## 🛠️ Prerequisites
 
@@ -46,7 +50,11 @@ AutomationAssignment/
 3. Extract and place the `chromedriver.exe` in a known folder, e.g.:
 C:\seleniumWebdriver\chromedriver-win64\chromedriver.exe
 
+yaml
+Copy
+Edit
 
+---
 
 ## 📦 Setup Steps in IntelliJ IDEA
 
@@ -69,10 +77,4 @@ Edit your `pom.xml` and add:
      <version>4.20.0</version>
  </dependency>
 </dependencies>
-
-.
-
-
-
-
 
