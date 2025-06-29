@@ -20,11 +20,9 @@ AutomationAssignment/
 └── example/
 └── ECommerceTest.java
 
-yaml
-Copy
-Edit
 
----
+
+
 
 ## 🛠️ Prerequisites
 
